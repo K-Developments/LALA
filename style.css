@@ -157,7 +157,7 @@ blockquote {
 
 #infinite {
 	background-color: #000000;
-  background-image: url(../img/windows.jpg);
+  background-image: url(./img/windows.jpg);
 
   background-repeat: repeat;
   height: 100vh;
@@ -276,7 +276,7 @@ blockquote {
 #testimonials {
   color: rgb(255, 255, 255);
   background-color: black;
-  background-image: url(../img/infinite-loop-100.jpg);
+  background-image: url(./img/infinite-loop-100.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -526,7 +526,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #000000;
-  background-image:url(../img/call-center.jpg) ;
+  background-image:url(./img/call-center.jpg) ;
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
