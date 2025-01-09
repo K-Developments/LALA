@@ -157,7 +157,7 @@ blockquote {
 
 #infinite {
 	background-color: #000000;
-  background-image: url(./img/windows.jpg);
+  background-image: url(/img/windows.jpg);
 
   background-repeat: repeat;
   height: 100vh;
