@@ -157,7 +157,7 @@ blockquote {
 
 #infinite {
 	background-color: #000000;
-  background-image: radial-gradient(rgb(31, 221, 250) , rgb(125, 217, 91) ,rgb(247, 242, 242));;
+  background-image: radial-gradient(rgb(31, 221, 250) , rgb(125, 217, 91) ,rgb(247, 242, 242));
 
   background-repeat: repeat;
   height: 100vh;
